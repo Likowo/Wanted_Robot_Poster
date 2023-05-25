@@ -1,0 +1,66 @@
+ body{
+    background-color: black;
+ }
+   
+.posterContainer{
+    border:dotted red;
+    border-width:0.4em;
+    background-color:yellow;
+    margin: 3em;
+    height: 770px;
+}
+.title{
+    text-align:center;
+    font-size:100px;
+    font-style:bold;
+    font-family:impact;
+    margin:0.5em;
+    border-top: solid black;
+    border-bottom: solid black;
+    border-top-width:0.1em;
+    border-bottom-width:0.1em;
+    
+}
+.news{
+  text-align:center;
+  font-size:40px;
+  font-style:bold;
+  font-family: impact;
+}
+
+.robot{
+    border:solid black;
+    border-style:bold;
+    border-image:auto;
+    margin-left:38%;
+    height:250px;
+    width:340px;
+}
+
+.description{
+    text-align:center;
+    color:red;
+    font-size:25px;
+}
+
+.contactInfo{
+    text-align:center;
+    font-size:25px;
+    font-family:Comic Sans Ms;
+}
+
+.reward{
+    text-align:center;
+    font-size:30px;
+    font-style:bold;
+    font-family:Tahoma;
+}
+
+
+/* color:purple;
+font-size:12pt;
+font-weight:bold;
+text-align:center;
+text-align:left;
+text-align:right;
+font-family:Comic Sans Ms; */
